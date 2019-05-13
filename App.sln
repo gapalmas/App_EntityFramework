@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.352
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Controller", "Controller\Controller.csproj", "{6C6AF6B7-149C-4313-AB0F-A77D05A88BB0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "View", "View\View.csproj", "{6795F916-4669-470B-B8D5-0EED73A2158D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Model", "Model\Model.csproj", "{82299F47-B399-4C8C-8B80-DF2666F658D2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6C6AF6B7-149C-4313-AB0F-A77D05A88BB0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C6AF6B7-149C-4313-AB0F-A77D05A88BB0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C6AF6B7-149C-4313-AB0F-A77D05A88BB0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C6AF6B7-149C-4313-AB0F-A77D05A88BB0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6795F916-4669-470B-B8D5-0EED73A2158D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6795F916-4669-470B-B8D5-0EED73A2158D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6795F916-4669-470B-B8D5-0EED73A2158D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6795F916-4669-470B-B8D5-0EED73A2158D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{82299F47-B399-4C8C-8B80-DF2666F658D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82299F47-B399-4C8C-8B80-DF2666F658D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82299F47-B399-4C8C-8B80-DF2666F658D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82299F47-B399-4C8C-8B80-DF2666F658D2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {10E03832-6F31-44C7-AC6C-609DB66DF615}
+	EndGlobalSection
+EndGlobal
