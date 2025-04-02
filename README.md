@@ -1,5 +1,5 @@
 # App
-MVC (G)
+MVC
 El objetivo general de este proyecto, es la mejora gradual y en corto plazo de la actividad de codificación y calidad de los desarrollos de software; en resumen calidad y agilidad de los proyectos de software.
 
 Los objetivos específicos que se buscan obtener mediante la investigación de este proyecto son:
@@ -13,5 +13,3 @@ Los objetivos específicos que se buscan obtener mediante la investigación de e
 •	Unificar procesos.- al tener el control e integración de los procesos la productividad aumenta y en constante la curva de implementación del software disminuye. Lo que nos permite evaluar de forma rápida el proyecto.
 
 •	Mejora del soporte.- sin duda la parte fundamental es tener un control de documentación que nos permita de forma ágil brindar un servicio de soporte, esto se logra mediante la unificación de procesos.
-
-Palma, G.A. (2018). Model View Controller Generic (MVCG).
